@@ -8,5 +8,5 @@
 - [Manitoba Curriculum for Senior 2 to Senior 4 Computer Science](https://www.edu.gov.mb.ca/k12/cur/cs/index.html)
 
 ## Keen for more?
-- You can find the [**Programming Task Design Briefs** here](https://drive.google.com/drive/folders/1IHhHvi868V84wuNG4C7oRynFskPlfVMb?usp=sharing)
-- ...and extra [**DP Computer Science Resources** here](https://mvpoirier.github.io/coding_dp/)
+- Here are the [**Programming Task Design Briefs**](https://drive.google.com/drive/folders/1IHhHvi868V84wuNG4C7oRynFskPlfVMb?usp=sharing)
+- ...and a few extra [**DP Computer Science Resources**](https://mvpoirier.github.io/coding_dp/)
